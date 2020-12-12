@@ -52,7 +52,7 @@
     "",
     "function draw_score()",
     "{",
-    " print(0,0,\"Score\",5); ",
+    " print(0,0,\"Score : \"+score,5); ",
     "}",
     "",
     "function draw_rac()",
